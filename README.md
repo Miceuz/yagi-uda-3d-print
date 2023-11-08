@@ -40,10 +40,11 @@ Gamma match clamp at 131mm.
 
 ## Tuning
 
-NanoVNA is critical for tuning process. Calibrate out your cable and monitor SWR on NanoVNA.
+[NanoVNA](https://nanovna.com) is critical for tuning process. Calibrate out your cable and monitor SWR on NanoVNA.
 
 * Start with gamma match at max length
 * Add reflector and driven element, adjust distance to achieve lowest SWR
 * Add director, ajdust distance for lowers SWR
 * Fine tune by adjusting gamma match shorting clamp
 
+Note that antenna will have different distances between elements depending on surrounding environment of antenna. Try to achieve at least 2m separation from conductive surfaces and ground for optimal performance.
